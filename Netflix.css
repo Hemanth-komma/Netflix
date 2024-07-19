@@ -1,0 +1,186 @@
+.bg-image{
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/dace47b4-a5cb-4368-80fe-c26f3e77d540/f5b52435-458f-498f-9d1d-ccd4f1af9913/IN-en-20231023-popsignuptwoweeks-perspective_alpha_website_medium.jpg');
+    height:700px;
+    width:100vw;
+}
+
+.image-font{
+    height:50px;
+    width:50px;
+    color:red;
+    margin-left:70px;
+    margin-top:30px;
+}
+.size{
+    margin-left:790px;
+    margin-top:30px;
+}
+.drop-color{
+    background-color: black;
+    color:white;
+    height:35px;
+    width:130px;
+    border-width:0.3px;
+    text-align:center;
+    border-color:white;
+    border-radius: 5px;
+}
+.sign-in-button{
+    background-color: red;
+    height:35px;
+    width:80px;
+    border-radius:5px;
+    color:white;
+    border-width:0px;
+    font-weight: bold;
+}
+.main-heading{
+    color:white;
+    font-size:55px;
+    text-align:center;
+    font-weight:bold;
+    margin-top:120px;
+    margin-left:100px;
+    margin-right:100px;
+}
+.small-head{
+    color:white;
+    font-size:20px;
+    text-align:center;
+    font-weight:bold
+}
+.input-el{
+    height:40px;
+    width:400px;
+    border-radius:5px;
+    border-width:0.5px;
+    border-color:white;
+    color:white;
+    background-color: black;
+}
+.started-button{
+    background-color:red;
+    color:white;
+    font-weight: bold;
+    border-radius:5px;
+    height:40px;
+    width:150px;
+    border-width: 0px;
+}
+.hrule{
+height:7px;
+background-color:grey;
+border:none;
+margin-top:233px;
+}
+
+.card{
+    background-image:url('https://w0.peakpx.com/wallpaper/196/143/HD-wallpaper-black-dark-plain-solid-thumbnail.jpg');
+    height:480px;
+    width:100vw;
+}
+.card-main-head{
+    font-size:50px;
+    font-weight:bold;
+    color:white;
+    margin-top:150px;
+    margin-left:130px;
+}
+.card-small-head{
+    font-size:25px;
+    font-weight:bold;
+    color:white;
+    margin-left:130px;
+
+}
+.image{
+    height:300px;
+    width:500px;
+    margin-right:100px;
+    margin-left:80px;
+    margin-top:100px;
+}
+.hrule1{
+    height:9px;
+    background-color:grey;
+    border:none;
+    margin-top:0px;
+    width:100vw;   
+}
+.back-color{
+    background-image: url('https://w0.peakpx.com/wallpaper/196/143/HD-wallpaper-black-dark-plain-solid-thumbnail.jpg');
+    width:100vw;
+}
+.card1-main-head{
+    font-size:50px;
+    font-weight:bold;
+    color:white;
+    margin-top:150px;
+    margin-left:5px;
+    margin-right:90px;
+}
+.card1-small-head{
+    font-size:25px;
+    font-weight:bold;
+    color:white;
+    margin-left:5px;
+    margin-right:90px;
+
+}
+.image1{
+    height:300px;
+    width:500px;
+    margin-right:50px;
+    margin-left:100px;
+    margin-top:100px;
+}
+.card1{
+    background-image:url('https://w0.peakpx.com/wallpaper/196/143/HD-wallpaper-black-dark-plain-solid-thumbnail.jpg');
+    height:750px;
+    width:100vw;
+}
+.main-heading1{
+    color:white;
+    font-size:55px;
+    text-align:center;
+    font-weight:bold;
+    margin-top:50px;
+    margin-left:100px;
+    margin-right:100px;
+}
+.small-card{
+    height:70px;
+    width:1000px;
+    background-color:grey;
+    
+}
+.small-card-font{
+    color:white;
+    font-size:20px;
+    padding-left:10px;
+    padding-top:18px;
+    font-weight:bold;
+    
+}
+.symbol{
+    color:white;
+    font-size:50px;
+}
+.last-font{
+    color:white;
+    font-size:18px;
+    margin-left:180px;
+    margin-top:50px;
+}
+.last-font1{
+    color:white;
+    font-size:15px;
+    margin-left:180px;
+    margin-top:20px;   
+    
+}
+.size1{
+    margin-left:180px;
+    font-size:17px;
+    color:white;
+}

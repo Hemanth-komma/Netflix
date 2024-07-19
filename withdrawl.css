@@ -1,0 +1,103 @@
+
+.main-container{
+    background-color: white;
+    box-shadow:0px 6px 14px 12px;
+    height: 100vh;
+    width:100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.small-container{
+    background-color: #150b3e;
+    height:500px;
+    width:500px;
+    border-radius: 10px;
+    align-self: center;
+}
+
+.small-circle{
+    background-color:  #c7d2fe;
+    height:50px;
+    width:50px;
+    margin:30px;
+    border-radius:23px;
+}
+
+.letter{
+    text-align: center;
+    color: #7c3aed;
+    font-size:17px;
+    padding-top:10px;
+   
+}
+
+.main-head{
+    color:white;
+    font-size:20px;
+    font-family:"Roboto";
+    margin-top:33px;
+    font-weight: bold;
+}
+
+.bal-head{
+    color: #585076;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left:40px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.rupees{
+    color:#d4d2db;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right:30px;   
+}
+
+.container1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.small-text{
+    color: #585076;
+    font-size: 10px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin-right:30px;
+}
+
+.with{
+    color:#d4d2db;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left:40px;   
+}
+
+.button{
+    height:40px;
+    width:160px;
+    text-align: center;
+    background-color:#585076;
+    border-color: white;
+    margin-right:50px;
+    margin-top:20px;
+    color:#d4d2db;
+    border-radius:4px;
+    margin-left:40px;
+}
+
+.btn-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
